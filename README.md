@@ -6,3 +6,4 @@ Development of an AI Agent Tool (Plugin) for Adaptive Image Manipulation to Enha
 
 ***Bharath Clone Done***
 ***Hi from Anil***
+***OCR performance enhancement using AI***
